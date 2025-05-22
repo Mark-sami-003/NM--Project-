@@ -43,7 +43,7 @@ We use **EfficientNetB0**, a lightweight yet powerful deep learning model, train
 ## Installation & Setup  
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/pmk456/AI-Powered-Early-Disease-Prediction-System.git
+git clone https://github.com/Mark-sami-003/AI-Powered-Early-Disease-Prediction-System.git
 cd AI-Powered-Early-Disease-Prediction-System
 ```
 ## Create a Virtual Environment (Optional, But Recommended)
